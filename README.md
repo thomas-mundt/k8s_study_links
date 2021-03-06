@@ -13,4 +13,8 @@
 - https://www.youtube.com/watch?v=JK70k_B87mw
 - https://containerjournal.com/topics/container-security/aqua-security-simplifies-kubernetes-security/
 - https://www.youtube.com/watch?v=xJ9ODtJv9_w
+- https://www.krakend.io/
+- https://github.com/cncf/trailmap
+- https://docs.nats.io/nats-on-kubernetes/nats-kubernetes
+- https://www.youtube.com/watch?v=AoEWX84h_ig
 - 
