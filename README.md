@@ -8,4 +8,8 @@
 - https://medium.com/@heshani.samarasekara/kube-scan-installing-and-testing-8923ee77787e
 - https://betterprogramming.pub/how-to-harden-your-kubernetes-cluster-with-kube-bench-fae71eb24d8
 - https://www.youtube.com/watch?v=8QK-Hg2yUd4
+- https://falco.org/
+- https://www.youtube.com/watch?v=8QK-Hg2yUd4
+- https://www.youtube.com/watch?v=JK70k_B87mw
+- https://containerjournal.com/topics/container-security/aqua-security-simplifies-kubernetes-security/
 - 
