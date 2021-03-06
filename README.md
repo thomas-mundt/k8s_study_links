@@ -12,4 +12,5 @@
 - https://www.youtube.com/watch?v=8QK-Hg2yUd4
 - https://www.youtube.com/watch?v=JK70k_B87mw
 - https://containerjournal.com/topics/container-security/aqua-security-simplifies-kubernetes-security/
+- https://www.youtube.com/watch?v=xJ9ODtJv9_w
 - 
