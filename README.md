@@ -17,4 +17,5 @@
 - https://github.com/cncf/trailmap
 - https://docs.nats.io/nats-on-kubernetes/nats-kubernetes
 - https://www.youtube.com/watch?v=AoEWX84h_ig
+- https://kudo.dev/
 - 
